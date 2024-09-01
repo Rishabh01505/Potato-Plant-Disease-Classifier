@@ -9,17 +9,16 @@ About: In this project we aim to build a web app that can assist farmers in dete
 
 # Run 🎯
 ### 1. Download or clone the repository
-### 2. Open cmd or terminal
-### 3. change directory (cd) to `Potato-Disease-Classification-main`
+### 2. Open cmd or terminal or powershell
+### 3. change directory (cd) to `Potato-Plant-Disease-Classifier-master`
 ### 4. Enter `pip install -r requirements.txt`
 ### 5. Enter `python app.py`
 
-**If this doesn't work** <br>
-**If normal execution of requirements.txt doesn't work:-** <br>
+**If you face an issue regarding tensorflow installation:-** <br>
 
 **Open Windows Powershell from Anaconda Navigator if installed (Windows 64-bit).** <br>
-**Type: cd '.\<complete path for potato-plant-disease-classifier-main folder>\'** <br>
-**Type: conda create --name tensorflow python=3.12** <br>
+**Type: cd '.\<complete path for Potato-Plant-Disease-Classifier-master folder>\'** <br>
+**Type: conda create --name tensorflow python=3.12  or any other version supporting tensorflow** <br>
 **Type: conda activate tensorflow** <br>
 **Type: pip install tensorflow** <br>
 
@@ -38,5 +37,7 @@ About: In this project we aim to build a web app that can assist farmers in dete
 **Type: python app.py** <br>
 
 **Ctrl + Click on the generated address to open the website.** <br>
+
+**
 
 
