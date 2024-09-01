@@ -17,7 +17,7 @@ About: In this project we aim to build a web app that can assist farmers in dete
 **If you face an issue regarding tensorflow installation:-** <br>
 
 **Open Windows Powershell from Anaconda Navigator if installed (Windows 64-bit).** <br>
-**Type: cd '.'\'<complete path for Potato-Plant-Disease-Classifier-master folder>'\''** <br>
+**Type: cd '.\ <complete path for Potato-Plant-Disease-Classifier-master folder> \'** <br>
 **Type: conda create --name tensorflow python=3.12  or any other version supporting tensorflow** <br>
 **Type: conda activate tensorflow** <br>
 **Type: pip install tensorflow** <br>
