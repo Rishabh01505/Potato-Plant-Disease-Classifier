@@ -1,0 +1,27 @@
+If normal execution of requirements.txt doesn't work:-
+
+Open Windows Powershell from Anaconda Navigator if installed (Windows 64-bit).
+
+Type: cd '.\<complete path for potato-plant-disease-classifier-main folder>\'
+
+Type: conda create --name tensorflow python=3.12
+
+Type: conda activate tensorflow
+
+Type: pip install tensorflow
+
+To check the installed versions:-
+Type: pip show tensorflow
+Type: python --version
+Type: pip3 --version
+(Type:  'pip install --upgrade pip' if required)
+
+My versions: Python - 3.12.0, Tensorflow - 2.17.0, Pip - 24.0
+
+Type: pip install numpy
+Type: pip install flask
+Type: pip install matplotlib
+
+Type: python app.py
+
+Ctrl + Click on the generated address to open the website.
