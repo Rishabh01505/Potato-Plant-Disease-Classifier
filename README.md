@@ -21,15 +21,6 @@ About: In this project we aim to build a web app that can assist farmers in dete
 **Type: conda create --name tensorflow python=3.12  or any other version supporting tensorflow** <br>
 **Type: conda activate tensorflow** <br>
 **Type: pip install tensorflow** <br>
-
-**To check the installed versions:-** <br>
-**Type: pip show tensorflow** <br>
-**Type: python --version** <br>
-**Type: pip3 --version** <br>
-**(Type:  'pip install --upgrade pip' if required)** <br>
-
-**My versions: Python - 3.12.0, Tensorflow - 2.17.0, Pip - 24.0** <br>
-
 **Type: pip install numpy** <br>
 **Type: pip install flask** <br>
 **Type: pip install matplotlib** <br>
@@ -38,6 +29,14 @@ About: In this project we aim to build a web app that can assist farmers in dete
 
 **Ctrl + Click on the generated address to open the website.** <br>
 
-**
+**To check the installed versions:-** <br>
+**Type: pip show tensorflow** <br>
+**Type: python --version** <br>
+**Type: pip3 --version** <br>
+**(Type:  'pip install --upgrade pip' if required)** <br>
+**Sample versions: Python - 3.12.0, Tensorflow - 2.17.0, Pip - 24.0** <br>
+
+
+
 
 
